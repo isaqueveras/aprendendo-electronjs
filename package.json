@@ -1,0 +1,15 @@
+{
+  "name": "primeiro-app",
+  "version": "1.0.0",
+  "description": "Aprendendo a criar aplicacao usando o electron js",
+  "main": "index.js",
+  "repository": "https://github.com/isaqueveras/aprendendo-electronjs.git",
+  "author": "Isaque Véras",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^17.1.0"
+  }
+}
